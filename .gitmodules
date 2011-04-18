@@ -1,0 +1,3 @@
+[submodule "web_lib"]
+	path = web_lib
+	url = git@github.com:asolkar/web_lib.git
